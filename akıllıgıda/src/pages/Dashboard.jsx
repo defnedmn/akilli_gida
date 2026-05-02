@@ -784,7 +784,7 @@ const selectedAllergiesLower = selectedAllergyList.map((item) =>
       "flour",
       "wheat",
       "hamur",
-      "tost",
+      "tost"
     ])
   ) {
     warnings.push("Çölyak / gluten hassasiyeti için uygun olmayabilir.");
